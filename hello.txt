@@ -3,4 +3,7 @@ git,およびgithubの動作の復習のテキストです。
 git add ~
 git commit
 コミットメッセージ
-
+git rm
+git log
+git status
+git diffの動作の確認
