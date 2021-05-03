@@ -1,0 +1,2 @@
+Hello World
+git,およびgithubの動作の復習のテキストです。
